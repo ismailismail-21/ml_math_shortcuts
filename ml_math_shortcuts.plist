@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--           GREEK LETTERS — LOWERCASE             -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>α</string><key>shortcut</key><string>;alpha</string></dict>
+  <dict><key>phrase</key><string>β</string><key>shortcut</key><string>;beta</string></dict>
+  <dict><key>phrase</key><string>γ</string><key>shortcut</key><string>;gamma</string></dict>
+  <dict><key>phrase</key><string>δ</string><key>shortcut</key><string>;delta</string></dict>
+  <dict><key>phrase</key><string>ε</string><key>shortcut</key><string>;epsilon</string></dict>
+  <dict><key>phrase</key><string>ζ</string><key>shortcut</key><string>;zeta</string></dict>
+  <dict><key>phrase</key><string>η</string><key>shortcut</key><string>;eta</string></dict>
+  <dict><key>phrase</key><string>θ</string><key>shortcut</key><string>;theta</string></dict>
+  <dict><key>phrase</key><string>ι</string><key>shortcut</key><string>;iota</string></dict>
+  <dict><key>phrase</key><string>κ</string><key>shortcut</key><string>;kappa</string></dict>
+  <dict><key>phrase</key><string>λ</string><key>shortcut</key><string>;lambda</string></dict>
+  <dict><key>phrase</key><string>μ</string><key>shortcut</key><string>;mu</string></dict>
+  <dict><key>phrase</key><string>ν</string><key>shortcut</key><string>;nu</string></dict>
+  <dict><key>phrase</key><string>ξ</string><key>shortcut</key><string>;xi</string></dict>
+  <dict><key>phrase</key><string>π</string><key>shortcut</key><string>;pi</string></dict>
+  <dict><key>phrase</key><string>ρ</string><key>shortcut</key><string>;rho</string></dict>
+  <dict><key>phrase</key><string>σ</string><key>shortcut</key><string>;sigma</string></dict>
+  <dict><key>phrase</key><string>τ</string><key>shortcut</key><string>;tau</string></dict>
+  <dict><key>phrase</key><string>υ</string><key>shortcut</key><string>;upsilon</string></dict>
+  <dict><key>phrase</key><string>φ</string><key>shortcut</key><string>;phi</string></dict>
+  <dict><key>phrase</key><string>χ</string><key>shortcut</key><string>;chi</string></dict>
+  <dict><key>phrase</key><string>ψ</string><key>shortcut</key><string>;psi</string></dict>
+  <dict><key>phrase</key><string>ω</string><key>shortcut</key><string>;omega</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--           GREEK LETTERS — UPPERCASE             -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>Γ</string><key>shortcut</key><string>;Gamma</string></dict>
+  <dict><key>phrase</key><string>Δ</string><key>shortcut</key><string>;Delta</string></dict>
+  <dict><key>phrase</key><string>Θ</string><key>shortcut</key><string>;Theta</string></dict>
+  <dict><key>phrase</key><string>Λ</string><key>shortcut</key><string>;Lambda</string></dict>
+  <dict><key>phrase</key><string>Ξ</string><key>shortcut</key><string>;Xi</string></dict>
+  <dict><key>phrase</key><string>Π</string><key>shortcut</key><string>;Pi</string></dict>
+  <dict><key>phrase</key><string>Σ</string><key>shortcut</key><string>;Sigma</string></dict>
+  <dict><key>phrase</key><string>Υ</string><key>shortcut</key><string>;Upsilon</string></dict>
+  <dict><key>phrase</key><string>Φ</string><key>shortcut</key><string>;Phi</string></dict>
+  <dict><key>phrase</key><string>Ψ</string><key>shortcut</key><string>;Psi</string></dict>
+  <dict><key>phrase</key><string>Ω</string><key>shortcut</key><string>;Omega</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--        CALCULUS &amp; ANALYSIS                  -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>∂</string><key>shortcut</key><string>;partial</string></dict>
+  <dict><key>phrase</key><string>∇</string><key>shortcut</key><string>;grad</string></dict>
+  <dict><key>phrase</key><string>∫</string><key>shortcut</key><string>;int</string></dict>
+  <dict><key>phrase</key><string>∬</string><key>shortcut</key><string>;iint</string></dict>
+  <dict><key>phrase</key><string>∮</string><key>shortcut</key><string>;oint</string></dict>
+  <dict><key>phrase</key><string>∞</string><key>shortcut</key><string>;inf</string></dict>
+  <dict><key>phrase</key><string>ℒ</string><key>shortcut</key><string>;Lcal</string></dict>
+  <dict><key>phrase</key><string>ℓ</string><key>shortcut</key><string>;ell</string></dict>
+  <dict><key>phrase</key><string>𝒪</string><key>shortcut</key><string>;Ocal</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--        LINEAR ALGEBRA &amp; MATRICES            -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>⊤</string><key>shortcut</key><string>;T</string></dict>
+  <dict><key>phrase</key><string>⊥</string><key>shortcut</key><string>;perp</string></dict>
+  <dict><key>phrase</key><string>⊗</string><key>shortcut</key><string>;otimes</string></dict>
+  <dict><key>phrase</key><string>⊙</string><key>shortcut</key><string>;odot</string></dict>
+  <dict><key>phrase</key><string>⊕</string><key>shortcut</key><string>;oplus</string></dict>
+  <dict><key>phrase</key><string>‖</string><key>shortcut</key><string>;norm</string></dict>
+  <dict><key>phrase</key><string>⟨</string><key>shortcut</key><string>;langle</string></dict>
+  <dict><key>phrase</key><string>⟩</string><key>shortcut</key><string>;rangle</string></dict>
+  <dict><key>phrase</key><string>det</string><key>shortcut</key><string>;det</string></dict>
+  <dict><key>phrase</key><string>tr</string><key>shortcut</key><string>;tr</string></dict>
+  <dict><key>phrase</key><string>rank</string><key>shortcut</key><string>;rank</string></dict>
+  <dict><key>phrase</key><string>diag</string><key>shortcut</key><string>;diag</string></dict>
+  <dict><key>phrase</key><string>vec</string><key>shortcut</key><string>;vec</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--       PROBABILITY &amp; STATISTICS              -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>𝔼</string><key>shortcut</key><string>;E</string></dict>
+  <dict><key>phrase</key><string>𝕍</string><key>shortcut</key><string>;V</string></dict>
+  <dict><key>phrase</key><string>ℙ</string><key>shortcut</key><string>;P</string></dict>
+  <dict><key>phrase</key><string>𝕀</string><key>shortcut</key><string>;I</string></dict>
+  <dict><key>phrase</key><string>∼</string><key>shortcut</key><string>;sim</string></dict>
+  <dict><key>phrase</key><string>≁</string><key>shortcut</key><string>;nsim</string></dict>
+  <dict><key>phrase</key><string>∝</string><key>shortcut</key><string>;propto</string></dict>
+  <dict><key>phrase</key><string>⊥⊥</string><key>shortcut</key><string>;indep</string></dict>
+  <dict><key>phrase</key><string>Cov</string><key>shortcut</key><string>;Cov</string></dict>
+  <dict><key>phrase</key><string>Var</string><key>shortcut</key><string>;Var</string></dict>
+  <dict><key>phrase</key><string>Std</string><key>shortcut</key><string>;Std</string></dict>
+  <dict><key>phrase</key><string>KL(P‖Q)</string><key>shortcut</key><string>;KL</string></dict>
+  <dict><key>phrase</key><string>𝒩(μ,σ²)</string><key>shortcut</key><string>;Normal</string></dict>
+  <dict><key>phrase</key><string>𝒰(a,b)</string><key>shortcut</key><string>;Uniform</string></dict>
+  <dict><key>phrase</key><string>Bernoulli(p)</string><key>shortcut</key><string>;Bern</string></dict>
+  <dict><key>phrase</key><string>Categorical(π)</string><key>shortcut</key><string>;Cat</string></dict>
+  <dict><key>phrase</key><string>Dirichlet(α)</string><key>shortcut</key><string>;Dir</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--          SET THEORY &amp; LOGIC                 -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>∈</string><key>shortcut</key><string>;in</string></dict>
+  <dict><key>phrase</key><string>∉</string><key>shortcut</key><string>;notin</string></dict>
+  <dict><key>phrase</key><string>⊂</string><key>shortcut</key><string>;subset</string></dict>
+  <dict><key>phrase</key><string>⊆</string><key>shortcut</key><string>;subseteq</string></dict>
+  <dict><key>phrase</key><string>⊃</string><key>shortcut</key><string>;supset</string></dict>
+  <dict><key>phrase</key><string>∪</string><key>shortcut</key><string>;union</string></dict>
+  <dict><key>phrase</key><string>∩</string><key>shortcut</key><string>;inter</string></dict>
+  <dict><key>phrase</key><string>∅</string><key>shortcut</key><string>;empty</string></dict>
+  <dict><key>phrase</key><string>∀</string><key>shortcut</key><string>;forall</string></dict>
+  <dict><key>phrase</key><string>∃</string><key>shortcut</key><string>;exists</string></dict>
+  <dict><key>phrase</key><string>¬</string><key>shortcut</key><string>;neg</string></dict>
+  <dict><key>phrase</key><string>∧</string><key>shortcut</key><string>;and</string></dict>
+  <dict><key>phrase</key><string>∨</string><key>shortcut</key><string>;or</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--          NUMBER SETS                            -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>ℝ</string><key>shortcut</key><string>;R</string></dict>
+  <dict><key>phrase</key><string>ℤ</string><key>shortcut</key><string>;Z</string></dict>
+  <dict><key>phrase</key><string>ℕ</string><key>shortcut</key><string>;N</string></dict>
+  <dict><key>phrase</key><string>ℚ</string><key>shortcut</key><string>;Q</string></dict>
+  <dict><key>phrase</key><string>ℂ</string><key>shortcut</key><string>;C</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--          COMPARISON &amp; RELATIONS             -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>≤</string><key>shortcut</key><string>;leq</string></dict>
+  <dict><key>phrase</key><string>≥</string><key>shortcut</key><string>;geq</string></dict>
+  <dict><key>phrase</key><string>≠</string><key>shortcut</key><string>;neq</string></dict>
+  <dict><key>phrase</key><string>≈</string><key>shortcut</key><string>;approx</string></dict>
+  <dict><key>phrase</key><string>≡</string><key>shortcut</key><string>;equiv</string></dict>
+  <dict><key>phrase</key><string>≜</string><key>shortcut</key><string>;defeq</string></dict>
+  <dict><key>phrase</key><string>≪</string><key>shortcut</key><string>;ll</string></dict>
+  <dict><key>phrase</key><string>≫</string><key>shortcut</key><string>;gg</string></dict>
+  <dict><key>phrase</key><string>≺</string><key>shortcut</key><string>;prec</string></dict>
+  <dict><key>phrase</key><string>≻</string><key>shortcut</key><string>;succ</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--          ARROWS                                 -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>→</string><key>shortcut</key><string>;to</string></dict>
+  <dict><key>phrase</key><string>←</string><key>shortcut</key><string>;from</string></dict>
+  <dict><key>phrase</key><string>↦</string><key>shortcut</key><string>;mapsto</string></dict>
+  <dict><key>phrase</key><string>↑</string><key>shortcut</key><string>;uparrow</string></dict>
+  <dict><key>phrase</key><string>↓</string><key>shortcut</key><string>;downarrow</string></dict>
+  <dict><key>phrase</key><string>⇒</string><key>shortcut</key><string>;implies</string></dict>
+  <dict><key>phrase</key><string>⇐</string><key>shortcut</key><string>;impliedby</string></dict>
+  <dict><key>phrase</key><string>⇔</string><key>shortcut</key><string>;iff</string></dict>
+  <dict><key>phrase</key><string>⟶</string><key>shortcut</key><string>;longrightarrow</string></dict>
+  <dict><key>phrase</key><string>⟵</string><key>shortcut</key><string>;longleftarrow</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    DEEP LEARNING — ACTIVATIONS &amp; LAYERS     -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>σ(x) = 1/(1+e⁻ˣ)</string><key>shortcut</key><string>;sigmoid</string></dict>
+  <dict><key>phrase</key><string>tanh(x)</string><key>shortcut</key><string>;tanh</string></dict>
+  <dict><key>phrase</key><string>ReLU(x) = max(0,x)</string><key>shortcut</key><string>;relu</string></dict>
+  <dict><key>phrase</key><string>LeakyReLU(x) = max(αx,x)</string><key>shortcut</key><string>;lrelu</string></dict>
+  <dict><key>phrase</key><string>softmax(xᵢ) = eˣⁱ / Σⱼ eˣʲ</string><key>shortcut</key><string>;softmax</string></dict>
+  <dict><key>phrase</key><string>LayerNorm(x)</string><key>shortcut</key><string>;layernorm</string></dict>
+  <dict><key>phrase</key><string>BatchNorm(x)</string><key>shortcut</key><string>;batchnorm</string></dict>
+  <dict><key>phrase</key><string>Dropout(x, p)</string><key>shortcut</key><string>;dropout</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    DEEP LEARNING — LOSS FUNCTIONS               -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>ℒ = -Σᵢ yᵢ log(ŷᵢ)</string><key>shortcut</key><string>;crossentropy</string></dict>
+  <dict><key>phrase</key><string>ℒ = (1/n) Σᵢ (yᵢ - ŷᵢ)²</string><key>shortcut</key><string>;mse</string></dict>
+  <dict><key>phrase</key><string>ℒ = (1/n) Σᵢ |yᵢ - ŷᵢ|</string><key>shortcut</key><string>;mae</string></dict>
+  <dict><key>phrase</key><string>ℒ_BCE = -[y log(ŷ) + (1-y) log(1-ŷ)]</string><key>shortcut</key><string>;bce</string></dict>
+  <dict><key>phrase</key><string>ℒ_huber</string><key>shortcut</key><string>;huber</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    DEEP LEARNING — OPTIMISATION                 -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>θ ← θ - η∇θℒ</string><key>shortcut</key><string>;sgd</string></dict>
+  <dict><key>phrase</key><string>mₜ = β₁mₜ₋₁ + (1-β₁)gₜ</string><key>shortcut</key><string>;adam1</string></dict>
+  <dict><key>phrase</key><string>vₜ = β₂vₜ₋₁ + (1-β₂)gₜ²</string><key>shortcut</key><string>;adam2</string></dict>
+  <dict><key>phrase</key><string>θ ← θ - η m̂ₜ/(√v̂ₜ + ε)</string><key>shortcut</key><string>;adamupdate</string></dict>
+  <dict><key>phrase</key><string>argmin</string><key>shortcut</key><string>;argmin</string></dict>
+  <dict><key>phrase</key><string>argmax</string><key>shortcut</key><string>;argmax</string></dict>
+  <dict><key>phrase</key><string>∂ℒ/∂θ</string><key>shortcut</key><string>;dloss</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    DEEP LEARNING — ATTENTION &amp; TRANSFORMERS -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>Attention(Q,K,V) = softmax(QKᵀ/√dₖ)V</string><key>shortcut</key><string>;attention</string></dict>
+  <dict><key>phrase</key><string>MultiHead(Q,K,V) = Concat(head₁,...,headₕ)Wᴼ</string><key>shortcut</key><string>;multihead</string></dict>
+  <dict><key>phrase</key><string>FFN(x) = max(0, xW₁+b₁)W₂+b₂</string><key>shortcut</key><string>;ffn</string></dict>
+  <dict><key>phrase</key><string>PE(pos,2i) = sin(pos/10000^(2i/dmodel))</string><key>shortcut</key><string>;posenc</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    MACHINE LEARNING — GENERAL                   -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>ŷ</string><key>shortcut</key><string>;yhat</string></dict>
+  <dict><key>phrase</key><string>x̂</string><key>shortcut</key><string>;xhat</string></dict>
+  <dict><key>phrase</key><string>ȳ</string><key>shortcut</key><string>;ybar</string></dict>
+  <dict><key>phrase</key><string>x̄</string><key>shortcut</key><string>;xbar</string></dict>
+  <dict><key>phrase</key><string>θ*</string><key>shortcut</key><string>;thetastar</string></dict>
+  <dict><key>phrase</key><string>f(x;θ)</string><key>shortcut</key><string>;fxtheta</string></dict>
+  <dict><key>phrase</key><string>p(x|θ)</string><key>shortcut</key><string>;pxtheta</string></dict>
+  <dict><key>phrase</key><string>p(θ|x)</string><key>shortcut</key><string>;pthetax</string></dict>
+  <dict><key>phrase</key><string>p(x,y)</string><key>shortcut</key><string>;pjoint</string></dict>
+  <dict><key>phrase</key><string>𝒟 = {(xᵢ,yᵢ)}ᵢ₌₁ᴺ</string><key>shortcut</key><string>;dataset</string></dict>
+  <dict><key>phrase</key><string>𝒟_train</string><key>shortcut</key><string>;dtrain</string></dict>
+  <dict><key>phrase</key><string>𝒟_val</string><key>shortcut</key><string>;dval</string></dict>
+  <dict><key>phrase</key><string>𝒟_test</string><key>shortcut</key><string>;dtest</string></dict>
+  <dict><key>phrase</key><string>ℝⁿ</string><key>shortcut</key><string>;Rn</string></dict>
+  <dict><key>phrase</key><string>ℝᵈ</string><key>shortcut</key><string>;Rd</string></dict>
+  <dict><key>phrase</key><string>ℝᵐˣⁿ</string><key>shortcut</key><string>;Rmn</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    INFORMATION THEORY                           -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>H(X) = -Σ p(x) log p(x)</string><key>shortcut</key><string>;entropy</string></dict>
+  <dict><key>phrase</key><string>H(X|Y)</string><key>shortcut</key><string>;condentropy</string></dict>
+  <dict><key>phrase</key><string>I(X;Y)</string><key>shortcut</key><string>;mutualinfo</string></dict>
+  <dict><key>phrase</key><string>DKL(P‖Q) = Σ P(x) log(P(x)/Q(x))</string><key>shortcut</key><string>;kldiv</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    REINFORCEMENT LEARNING                       -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>V(s) = 𝔼[Σₜ γᵗ rₜ | s₀=s]</string><key>shortcut</key><string>;valuefn</string></dict>
+  <dict><key>phrase</key><string>Q(s,a)</string><key>shortcut</key><string>;qfn</string></dict>
+  <dict><key>phrase</key><string>π(a|s)</string><key>shortcut</key><string>;policy</string></dict>
+  <dict><key>phrase</key><string>𝒯(s'|s,a)</string><key>shortcut</key><string>;transition</string></dict>
+  <dict><key>phrase</key><string>γ</string><key>shortcut</key><string>;discount</string></dict>
+  <dict><key>phrase</key><string>δₜ = rₜ + γV(sₜ₊₁) - V(sₜ)</string><key>shortcut</key><string>;td</string></dict>
+  <dict><key>phrase</key><string>Aᵠ(s,a) = Qᵠ(s,a) - Vᵠ(s)</string><key>shortcut</key><string>;advantage</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    SUPERSCRIPTS &amp; SUBSCRIPTS                -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>⁰</string><key>shortcut</key><string>;sup0</string></dict>
+  <dict><key>phrase</key><string>¹</string><key>shortcut</key><string>;sup1</string></dict>
+  <dict><key>phrase</key><string>²</string><key>shortcut</key><string>;sup2</string></dict>
+  <dict><key>phrase</key><string>³</string><key>shortcut</key><string>;sup3</string></dict>
+  <dict><key>phrase</key><string>ⁿ</string><key>shortcut</key><string>;supn</string></dict>
+  <dict><key>phrase</key><string>ᵀ</string><key>shortcut</key><string>;supT</string></dict>
+  <dict><key>phrase</key><string>⁻¹</string><key>shortcut</key><string>;inv</string></dict>
+  <dict><key>phrase</key><string>½</string><key>shortcut</key><string>;half</string></dict>
+  <dict><key>phrase</key><string>₀</string><key>shortcut</key><string>;sub0</string></dict>
+  <dict><key>phrase</key><string>₁</string><key>shortcut</key><string>;sub1</string></dict>
+  <dict><key>phrase</key><string>₂</string><key>shortcut</key><string>;sub2</string></dict>
+  <dict><key>phrase</key><string>ᵢ</string><key>shortcut</key><string>;subi</string></dict>
+  <dict><key>phrase</key><string>ⱼ</string><key>shortcut</key><string>;subj</string></dict>
+  <dict><key>phrase</key><string>ₜ</string><key>shortcut</key><string>;subt</string></dict>
+  <dict><key>phrase</key><string>ₖ</string><key>shortcut</key><string>;subk</string></dict>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!--    MISC MATH                                    -->
+  <!-- ═══════════════════════════════════════════════ -->
+
+  <dict><key>phrase</key><string>√</string><key>shortcut</key><string>;sqrt</string></dict>
+  <dict><key>phrase</key><string>∑</string><key>shortcut</key><string>;sum</string></dict>
+  <dict><key>phrase</key><string>∏</string><key>shortcut</key><string>;prod</string></dict>
+  <dict><key>phrase</key><string>±</string><key>shortcut</key><string>;pm</string></dict>
+  <dict><key>phrase</key><string>×</string><key>shortcut</key><string>;times</string></dict>
+  <dict><key>phrase</key><string>·</string><key>shortcut</key><string>;cdot</string></dict>
+  <dict><key>phrase</key><string>∘</string><key>shortcut</key><string>;circ</string></dict>
+  <dict><key>phrase</key><string>⋅</string><key>shortcut</key><string>;dot</string></dict>
+  <dict><key>phrase</key><string>…</string><key>shortcut</key><string>;ldots</string></dict>
+  <dict><key>phrase</key><string>⋮</string><key>shortcut</key><string>;vdots</string></dict>
+  <dict><key>phrase</key><string>⋱</string><key>shortcut</key><string>;ddots</string></dict>
+  <dict><key>phrase</key><string>⌊</string><key>shortcut</key><string>;floor</string></dict>
+  <dict><key>phrase</key><string>⌈</string><key>shortcut</key><string>;ceil</string></dict>
+  <dict><key>phrase</key><string>|</string><key>shortcut</key><string>;abs</string></dict>
+  <dict><key>phrase</key><string>max</string><key>shortcut</key><string>;max</string></dict>
+  <dict><key>phrase</key><string>min</string><key>shortcut</key><string>;min</string></dict>
+  <dict><key>phrase</key><string>lim</string><key>shortcut</key><string>;lim</string></dict>
+  <dict><key>phrase</key><string>sup</string><key>shortcut</key><string>;supr</string></dict>
+  <dict><key>phrase</key><string>inf</string><key>shortcut</key><string>;infr</string></dict>
+
+</array>
+</plist>
