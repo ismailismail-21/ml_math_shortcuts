@@ -24,8 +24,8 @@ Thank you for wanting to improve this shortcut pack!
 
 - All shortcuts start with `;` to avoid accidental triggers
 - `;name` (lowercase) → symbol or lowercase output
-- `;Name` (capitalised first letter) → uppercase Greek or named set
-- `;keyword` → full formula or expression snippet
+- `;;name` (double semicolon) → uppercase Greek variants
+- `;keyword` (lowercase) → full formula or expression snippet
 
 ## Suggestions via issues
 

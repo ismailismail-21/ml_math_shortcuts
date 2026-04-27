@@ -11,12 +11,12 @@ Type `;alpha` → get `α`. Type `;attention` → get `Attention(Q,K,V) = softma
 | Category | Count | Examples |
 |---|---|---|
 | Greek letters (lower) | 23 | `;alpha` → α, `;theta` → θ, `;lambda` → λ |
-| Greek letters (upper) | 11 | `;Sigma` → Σ, `;Delta` → Δ, `;Phi` → Φ |
+| Greek letters (upper) | 11 | `;;sigma` → Σ, `;;delta` → Δ, `;;phi` → Φ |
 | Calculus & analysis | 9 | `;grad` → ∇, `;partial` → ∂, `;int` → ∫ |
-| Linear algebra | 13 | `;norm` → ‖, `;otimes` → ⊗, `;T` → ⊤ |
-| Probability & stats | 17 | `;E` → 𝔼, `;P` → ℙ, `;Normal` → 𝒩(μ,σ²) |
+| Linear algebra | 13 | `;norm` → ‖, `;otimes` → ⊗, `;t` → ⊤ |
+| Probability & stats | 17 | `;e` → 𝔼, `;p` → ℙ, `;normal` → 𝒩(μ,σ²) |
 | Set theory & logic | 13 | `;in` → ∈, `;forall` → ∀, `;union` → ∪ |
-| Number sets | 5 | `;R` → ℝ, `;Z` → ℤ, `;N` → ℕ |
+| Number sets | 5 | `;r` → ℝ, `;z` → ℤ, `;n` → ℕ |
 | Comparisons & relations | 10 | `;leq` → ≤, `;approx` → ≈, `;defeq` → ≜ |
 | Arrows | 10 | `;to` → →, `;iff` → ⇔, `;mapsto` → ↦ |
 | Deep learning — activations | 8 | `;relu`, `;sigmoid`, `;softmax` |
@@ -67,17 +67,17 @@ Type `;alpha` → get `α`. Type `;attention` → get `Attention(Q,K,V) = softma
 
 | Shortcut | Output | Name |
 |---|---|---|
-| `;Gamma` | Γ | Gamma |
-| `;Delta` | Δ | Delta |
-| `;Theta` | Θ | Theta |
-| `;Lambda` | Λ | Lambda |
-| `;Xi` | Ξ | Xi |
-| `;Pi` | Π | Pi |
-| `;Sigma` | Σ | Sigma |
-| `;Upsilon` | Υ | Upsilon |
-| `;Phi` | Φ | Phi |
-| `;Psi` | Ψ | Psi |
-| `;Omega` | Ω | Omega |
+| `;;gamma` | Γ | Gamma |
+| `;;delta` | Δ | Delta |
+| `;;theta` | Θ | Theta |
+| `;;lambda` | Λ | Lambda |
+| `;;xi` | Ξ | Xi |
+| `;;pi` | Π | Pi |
+| `;;sigma` | Σ | Sigma |
+| `;;upsilon` | Υ | Upsilon |
+| `;;phi` | Φ | Phi |
+| `;;psi` | Ψ | Psi |
+| `;;omega` | Ω | Omega |
 
 ### Calculus & analysis
 
@@ -89,15 +89,15 @@ Type `;alpha` → get `α`. Type `;attention` → get `Attention(Q,K,V) = softma
 | `;iint` | ∬ | double integral |
 | `;oint` | ∮ | contour integral |
 | `;inf` | ∞ | infinity |
-| `;Lcal` | ℒ | script L (loss) |
+| `;lcal` | ℒ | script L (loss) |
 | `;ell` | ℓ | script ell |
-| `;Ocal` | 𝒪 | big-O notation |
+| `;ocal` | 𝒪 | big-O notation |
 
 ### Linear algebra
 
 | Shortcut | Output | Description |
 |---|---|---|
-| `;T` | ⊤ | transpose |
+| `;t` | ⊤ | transpose |
 | `;perp` | ⊥ | perpendicular / orthogonal |
 | `;otimes` | ⊗ | tensor / Kronecker product |
 | `;odot` | ⊙ | Hadamard (elementwise) product |
@@ -115,23 +115,23 @@ Type `;alpha` → get `α`. Type `;attention` → get `Attention(Q,K,V) = softma
 
 | Shortcut | Output | Description |
 |---|---|---|
-| `;E` | 𝔼 | expectation |
-| `;V` | 𝕍 | variance (blackboard) |
-| `;P` | ℙ | probability measure |
-| `;I` | 𝕀 | indicator function |
+| `;e` | 𝔼 | expectation |
+| `;v` | 𝕍 | variance (blackboard) |
+| `;p` | ℙ | probability measure |
+| `;i` | 𝕀 | indicator function |
 | `;sim` | ∼ | distributed as |
 | `;nsim` | ≁ | not distributed as |
 | `;propto` | ∝ | proportional to |
 | `;indep` | ⊥⊥ | independent |
-| `;Cov` | Cov | covariance |
-| `;Var` | Var | variance |
-| `;Std` | Std | standard deviation |
-| `;KL` | KL(P‖Q) | KL divergence template |
-| `;Normal` | 𝒩(μ,σ²) | normal distribution |
-| `;Uniform` | 𝒰(a,b) | uniform distribution |
-| `;Bern` | Bernoulli(p) | Bernoulli distribution |
-| `;Cat` | Categorical(π) | categorical distribution |
-| `;Dir` | Dirichlet(α) | Dirichlet distribution |
+| `;cov` | Cov | covariance |
+| `;var` | Var | variance |
+| `;std` | Std | standard deviation |
+| `;kl` | KL(P‖Q) | KL divergence template |
+| `;normal` | 𝒩(μ,σ²) | normal distribution |
+| `;uniform` | 𝒰(a,b) | uniform distribution |
+| `;bern` | Bernoulli(p) | Bernoulli distribution |
+| `;cat` | Categorical(π) | categorical distribution |
+| `;dir` | Dirichlet(α) | Dirichlet distribution |
 
 ### Deep learning — activations & layers
 
@@ -214,9 +214,9 @@ Open any text field (e.g. Notes), type `;alpha` followed by a space — it shoul
 Suggestions and additions are welcome! Please open an issue or pull request.
 
 When adding new entries, follow the naming convention:
-- `;name` (lowercase) for lowercase/symbol outputs
-- `;Name` (capitalised) for uppercase Greek or named sets
-- `;keyword` for full formula snippets
+- `;name` (lowercase) for regular/lowercase symbol outputs
+- `;;name` (double semicolon) for uppercase Greek variants
+- `;keyword` (lowercase) for full formula snippets
 
 ---
 
